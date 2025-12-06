@@ -1,10 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=haidarfaizul.haidarfaizul">
 <div align="center">
 <!-- 
 # Hi 👋, I'm Haidar Faizul
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=haidarfaizul&label=visitors&color=blue&style=plastic"/> </p> -->
 
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=haidarfaizul.haidarfaizul">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
